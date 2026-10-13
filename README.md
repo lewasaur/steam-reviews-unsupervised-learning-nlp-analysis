@@ -81,7 +81,7 @@ Beyond investigating a game I personally enjoyed, the project provided practical
 ## Repository Contents
 
 - `player_negative_feedback_analysis_OS.ipynb`: Jupyter notebook containing the analysis, model experiments, visualizations, and findings.
-- `omega_reviews_training.csv`: Steam review dataset used for the project.
+- `omega_strikers_reviews.csv`: Steam review dataset used for the project.
 
 ## How to Run
 
